@@ -1,0 +1,281 @@
+.reset-password4 {
+  position: absolute;
+  width: 36.11%;
+  top: calc(50% - 11.5px);
+  left: 31.94%;
+  font-size: 15px;
+  display: inline-block;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: center;
+}
+
+.rectangle4,
+.resetpwbtn4 {
+  position: absolute;
+  border-radius: var(--br-9xs);
+}
+
+.resetpwbtn4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-steelblue-100);
+  height: 8.32%;
+  width: 420px;
+  top: 63.12%;
+  right: 2.75%;
+  bottom: 2.56%;
+  left: 0;
+  overflow: hidden;
+}
+
+.rectangle4 {
+  height: 80.74%;
+  width: 100.18%;
+  top: -0.29%;
+  right: -0.09%;
+  bottom: 27.55%;
+  left: -0.09%;
+  background-color: var(--color-white);
+  border: 1px solid #e1dfdf;
+  box-sizing: border-box;
+}
+
+.enter-your-email4 {
+  border: 1px solid #ccc4c4;
+  border-radius: 5px;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-xs);
+  background-color: transparent;
+  width: 90.22%;
+  height: 40px;
+  top: calc(55% - 28.75px);
+  left: 3%;
+  color: var(--color-darkslategray-200);
+  text-align: left;
+  opacity: 0.4;
+  mix-blend-mode: normal;
+}
+
+.enter-your-email4,
+.forget-password4,
+.we-will-send4 {
+  position: absolute;
+  display: inline-block;
+}
+
+.we-will-send4 {
+  width: 73.78%;
+  top: calc(55% + 49.25px);
+  left: 1.9%;
+  opacity: 0.4;
+  mix-blend-mode: normal;
+}
+
+.forget-password4 {
+  width: 39.19%;
+  top: calc(57% - 70.05px);
+  left: 3%;
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--color-darkslategray-100);
+}
+
+.inputpw4 {
+  padding-top: 10px;
+  height: 130px;
+  width: 420px;
+  top: 27.47%;
+  right: 2.72%;
+  bottom: 21.92%;
+  left: 0.72%;
+}
+
+.find-job-icon4,
+.inputpw4,
+.passwordcard4 {
+  position: absolute;
+  overflow: hidden;
+}
+
+.find-job-icon4 {
+  top: calc(5% - 11.5px);
+  left: 80px;
+  width: 240px;
+  height: 70px;
+  object-fit: cover;
+}
+
+.passwordcard4 {
+  top: 90px;
+  left: 0;
+  width: 600px;
+  height: 500px;
+}
+
+.rectangle4-1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background: linear-gradient(180deg, #00bbe7, #0086ca);
+  display: none;
+}
+
+.resend-again4 {
+  position: absolute;
+  top: calc(50% - 9.5px);
+  left: 36.25%;
+  font-size: 15px;
+  font-family: var(--font-poppins);
+  color: var(--color-steelblue-100);
+  text-align: center;
+}
+
+.resendBtn4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 56.96%;
+  width: 100%;
+  top: 43.04%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.didnt-received-the4 {
+  position: absolute;
+  top: calc(50% - 39.5px);
+  left: 12.67%;
+  line-height: 20px;
+}
+
+.passwordlink4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 360px;
+  height: 79px;
+  overflow: hidden;
+}
+
+.FindJob-i4 {
+  position: absolute;
+  top: calc(50% - 8.5px);
+  left: 5.84%;
+}
+
+.findjobinc4 {
+  top: 125px;
+  left: 112px;
+  width: 137px;
+  height: 17px;
+  overflow: hidden;
+  font-size: var(--font-size-xs);
+}
+
+.findjobinc4,
+.footer4,
+.right4 {
+  position: absolute;
+}
+
+.footer4 {
+  top: 580px;
+  left: 30px;
+  width: 360px;
+  height: 130px;
+  text-align: center;
+  font-size: 14px;
+  color: var(--color-darkslategray-100);
+}
+
+.right4 {
+  top: 0;
+  left: 900px;
+  background-color: var(--color-white);
+  width: 960px;
+  height: 1080px;
+}
+
+.backgroundimg-icon4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+.connect-merge-work4 {
+  position: absolute;
+  top: calc(50% - 414px);
+  left: 19.79%;
+  line-height: 83px;
+}
+
+.left4,
+.sign-in4 {
+  height: 1080px;
+  overflow: hidden;
+}
+
+.left4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 800px;
+  font-size: 42px;
+  color: #0e5a86;
+}
+
+.sign-in4 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 1400px;
+  height: 780px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-poppins);
+}
+
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-steelblue-100: #0086ca;
+  --color-darkslategray-100: #4a4a4a;
+  --color-darkslategray-200: #1a4f6e;
+
+  /* Border radiuses */
+  --br-9xs: 4px;
+}

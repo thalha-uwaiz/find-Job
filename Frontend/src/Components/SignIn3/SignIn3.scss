@@ -1,0 +1,199 @@
+
+.loginText3 {
+  position: absolute;
+  width: 15.08%;
+  top: calc(30% - 135px);
+  left: 15%;
+  font-weight: 600;
+  display: inline-block;
+  font-size: large;
+}
+
+.find-job-icon3,
+.logincard3 {
+  position: absolute;
+  overflow: hidden;
+}
+
+.find-job-icon3 {
+  top: calc(15% - 11.5px);
+  left: 350px;
+  width: 220px;
+  height: 60px;
+  object-fit: cover;
+}
+
+
+.logincard3 {
+  top: 20px;
+  width: 700px;
+  height: 600px;
+  left: -300px;
+}
+
+.rectangle3,
+.right3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 960px;
+  height: 1080px;
+}
+
+.rectangle3 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-9xs);
+  background: linear-gradient(180deg, #00bbe7, #0086ca);
+  display: none;
+}
+
+.sign-up3 {
+  position: absolute;
+  top: calc(50% - 9.5px);
+  left: 43.06%;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-poppins);
+  color: var(--color-steelblue-100);
+  text-align: center;
+}
+
+.Sign-Up-Btn3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 56.96%;
+  width: 100%;
+  top: 43.04%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.dont-have-an3 {
+  position: absolute;
+  top: calc(50% - 39.5px);
+  left: 26.94%;
+  line-height: 40px;
+}
+
+.donthaveanacc3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 360px;
+  height: 79px;
+  overflow: hidden;
+}
+
+.FindJobInc3 {
+  position: absolute;
+  top: calc(80% - 8.5px);
+  left: 110px;
+}
+
+.footer3 {
+  top: 580px;
+  left: 30px;
+  width: 360px;
+  height: 130px;
+  text-align: center;
+  font-size: 14px;
+  color: var(--color-darkslategray-100);
+}
+
+.signupcard3 {
+  position: absolute;
+  top: 600px;
+  left: -40px;
+  width: 360px;
+  height: 142px;
+  text-align: center;
+  font-size: 14px;
+}
+
+.image-icon3,
+.right-parent3 {
+  position: absolute;
+  top: 0;
+  left: 960px;
+  width: 960px;
+  height: 1080px;
+}
+
+.image-icon3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+.connect-merge-work3 {
+  position: absolute;
+  top: calc(50% - 414px);
+  left: 19.79%;
+  line-height: 83px;
+}
+
+.left3,
+.sign-in3 {
+  height: 1080px;
+  overflow: hidden;
+}
+
+.left3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 800px;
+  font-size: 42px;
+  color: #0e5a86;
+}
+
+.sign-in3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 1400px;
+  height: 780px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-poppins);
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --font-size-mini: 15px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-steelblue-100: #0086ca;
+  --color-darkslategray: #4a4a4a;
+
+  /* Border radiuses */
+  --br-9xs: 4px;
+}

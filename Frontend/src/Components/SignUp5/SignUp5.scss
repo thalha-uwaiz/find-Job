@@ -1,0 +1,177 @@
+.backgroundim5-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+.connect-merge-work5 {
+  position: absolute;
+  top: calc(50% - 414px);
+  left: 19.79%;
+  line-height: 83px;
+}
+
+.left5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 760px;
+  height: 1080px;
+  overflow: hidden;
+}
+
+
+.createyouraccbtn {
+  position: absolute;
+  height: 3.93%;
+  top: 50px;
+  right: 0.83%;
+  bottom: 0;
+  left: 100px;
+  text-decoration: none;
+  font-size: 15px;
+  color: white;
+}
+
+.sign-up51 {
+  position: absolute;
+  width: 17.08%;
+  top: calc(37% - 266.5px);
+  left: 41.6%;
+  font-weight: 600;
+  display: inline-block;
+  height: 24px;
+}
+
+
+
+.i-have-read-container {
+  position: absolute;
+  width: 91.71%;
+  top: calc(20% - 12.6px);
+  left: 8.29%;
+  display: inline-block;
+  height: 42px;
+}
+
+
+
+
+
+.findjobicon5{
+  position: absolute;
+  overflow: hidden;
+}
+
+.findjobicon5 {
+  top: 45px;
+  left: 340px;
+  width: 200px;
+  height: 60px;
+  object-fit: cover;
+}
+
+
+.signinbtn5 {
+  position: absolute;
+  height: 50.96%;
+  width: 100%;
+  top: 48.04%;
+  right: 0;
+  bottom: 0;
+  left: 0px;
+}
+
+.already-have-an {
+  position: absolute;
+  top: calc(60% - 39.5px);
+  left: 35.58%;
+  line-height: 40px;
+}
+
+.signinoption5 {
+  position: absolute;
+  top: 620px;
+  left: 250px;
+  width: 360px;
+  height: 79px;
+  overflow: hidden;
+}
+
+.findjobinc5 {
+  position: absolute;
+  top: calc(20% - 5.5px);
+  left: 5.84%;
+}
+
+.footer5 {
+  position: absolute;
+  top: 720px;
+  left: 380px;
+  width: 120px;
+  height: 17px;
+  overflow: hidden;
+  font-size: 12px;
+}
+
+form {
+  position: absolute;
+  top: 300px;
+  left: 200px;
+  text-align: center;
+ 
+}
+.right5,
+.sign-up5 {
+  height: 1080px;
+  overflow: hidden;
+}
+
+.right5 {
+  position: absolute;
+  top: 0;
+  left: 650px;
+  width: 960px;
+  font-size: 16px;
+  color: var(--color-darkslategray);
+}
+
+.sign-up5 {
+  position: relative;
+  background-color: #fff;
+  width: 1400px;
+  height: 780px;
+  text-align: left;
+  font-size: 42px;
+  color: #0e5a86;
+  font-family: var(--font-poppins);
+}
+
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-darkslategray: #4a4a4a;
+  --color-darkgray: #9b9b9b;
+}

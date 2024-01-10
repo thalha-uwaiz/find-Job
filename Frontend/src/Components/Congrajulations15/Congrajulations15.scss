@@ -1,0 +1,133 @@
+.background15-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+.connect-merge-work15 {
+  position: absolute;
+  top: calc(50% - 414px);
+  left: 19.79%;
+  line-height: 83px;
+}
+
+.left15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 760px;
+  height: 1080px;
+  overflow: hidden;
+}
+
+.icontrue {
+  position: absolute;
+  top: 300.1px;
+  left: 425.1px;
+  width: 99.7px;
+  height: 99.7px;
+}
+
+.congratulations-you,
+.giive-us-a {
+  position: absolute;
+  top: 430px;
+  left: 250px;
+  font-size: 20px;
+}
+
+.giive-us-a {
+  top: 475px;
+  left: 300px;
+  font-size: 14px;
+  color: #484848;
+  text-align: center;
+}
+
+.profilepic15-icon {
+  position: absolute;
+  height: 67.18%;
+  width: 21.88%;
+  top: 15.36%;
+  right: 70%;
+  bottom: 17.47%;
+  left: 8.13%;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+.picon15,
+.profilename15 {
+  position: absolute;
+  top: calc(50% - 10.05px);
+  left: 35.63%;
+}
+
+.picon15 {
+  top: calc(50% - 14.65px);
+  left: 71.27%;
+  font-size: 26.63px;
+  font-family: var(--font-material-icons);
+  color: #000;
+}
+
+.profilecard15 {
+  position: absolute;
+  top: 10px;
+  left: 610px;
+  width: 160px;
+  height: 52.1px;
+  overflow: hidden;
+  font-size: 14px;
+}
+
+.congratulations15,
+.right15 {
+  height: 1080px;
+  overflow: hidden;
+}
+
+.right15 {
+  position: absolute;
+  top: 0;
+  left: 650px;
+  width: 960px;
+  font-size: 16px;
+  color: var(--color-darkslategray);
+}
+
+.congratulations15 {
+  position: relative;
+  background-color: #fff;
+  width: 1400px;
+  height: 780px;
+  text-align: left;
+  font-size: 42px;
+  color: #0e5a86;
+  font-family: var(--font-poppins);
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Material+Icons:wght@400&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-material-icons: "Material Icons";
+  --font-poppins: Poppins;
+}

@@ -1,0 +1,343 @@
+.backimg-iconH {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1500px;
+  height: 600px;
+  object-fit: cover;
+  cursor: auto;
+}
+
+.logo-iconH {
+  position: absolute;
+  top: calc(0% - 12.5px);
+  left: 60px;
+  width: 310px;
+  height: 200px;
+}
+
+.how-we-work {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  width: 21.01%;
+  top: calc(50% - 9.5px);
+  left: 0;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-poppins);
+  color: var(--color-darkslategray-100);
+  text-align: center;
+  display: inline-block;
+}
+
+.about-us:hover,
+.download:hover,
+.how-we-work:hover,
+.pricing:hover {
+  color: var(--color-darkgray);
+}
+
+.pricing {
+  position: absolute;
+  width: 10.62%;
+  left: 33.86%;
+}
+
+.about-us,
+.download,
+.pricing {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: calc(50% - 9.5px);
+  font-size: var(--font-size-sm);
+  font-family: var(--font-poppins);
+  color: var(--color-darkslategray-100);
+  text-align: center;
+  display: inline-block;
+}
+
+.download {
+  position: absolute;
+  width: 15.7%;
+  left: 57.52%;
+}
+
+.about-us {
+  width: 13.94%;
+  left: 86.06%;
+}
+
+.about-us,
+.headerHome,
+.linksHome {
+  position: absolute;
+}
+
+.linksHome {
+  top: 60px;
+  left: 730px;
+  width: 650px;
+  height: 40px;
+  overflow: hidden;
+}
+
+.headerHome {
+  top: 0px;
+  left: 0;
+  width: 900px;
+  height: 100px;
+}
+
+.connect {
+  margin: 0;
+}
+
+.connect-merge-work-container {
+  position: absolute;
+  width: 116.27%;
+  top: calc(50% - 123px);
+  left: 0;
+  line-height: 83px;
+  display: inline-block;
+}
+
+.post-job {
+  position: absolute;
+  width: 49.7%;
+  top: calc(50% - 10.5px);
+  left: 24.85%;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-darkslategray-200);
+  text-align: center;
+  display: inline-block;
+}
+
+.postjob {
+  cursor: pointer;
+  border: 1px solid var(--color-darkslategray-200);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 20.73%;
+  width: 25.85%;
+  top: 79.47%;
+  right: 74.23%;
+  bottom: -0.2%;
+  left: -0.08%;
+  border-radius: var(--br-6xl);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.postjob:hover {
+  cursor: pointer;
+}
+
+.get-hired {
+  position: absolute;
+  width: 55%;
+  top: calc(50% - 10px);
+  left: 22.47%;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+}
+
+.gethired,
+.heading {
+  position: absolute;
+  overflow: hidden;
+}
+
+.gethired {
+  border: 0;
+  padding: 0;
+  background-color: #0086ca;
+  height: 20.33%;
+  width: 25.7%;
+  top: 79.67%;
+  right: 45.19%;
+  bottom: 0;
+  left: 29.12%;
+  border-radius: var(--br-6xl);
+}
+
+.gethired,
+.gethired:hover {
+  cursor: pointer;
+}
+
+.heading {
+  top: 250px;
+  left: 95px;
+  width: 650px;
+  height: 220px;
+}
+
+.link-icon,
+.main {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1400px;
+  height: 804px;
+}
+
+.link-icon {
+  left: 117.1px;
+  top: 10px;
+  width: 25px;
+  height: 25px;
+}
+
+.merge-2-icon,
+.portfolio-icon {
+  position: absolute;
+  left: 518px;
+  top: 10px;
+  width: 25px;
+  height: 25px;
+}
+
+.portfolio-icon {
+  left: 917px;
+  top: 10px;
+  width: 25px;
+  height: 25px;
+}
+
+.connecttext {
+  position: absolute;
+  top: calc(50% - 64.5px);
+  left: 37.45%;
+}
+
+.staffmerges-mission {
+  position: absolute;
+  height: 60%;
+  width: 100%;
+  top: 20%;
+  left: 0;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  color: var(--color-gray);
+  display: inline-block;
+}
+
+.connect1 {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  width: 250px;
+  height: 120px;
+  overflow: hidden;
+}
+
+.mergetext {
+  top: calc(50% - 64.5px);
+  left: 43.55%;
+}
+
+.merge,
+.mergetext,
+.worktex {
+  position: absolute;
+}
+
+.merge {
+  position: absolute;
+  top: 50px;
+  left: 401px;
+  width: 250px;
+  height: 120px;
+  overflow: hidden;
+}
+
+.worktex {
+  top: calc(50% - 64.5px);
+  left: 39%;
+}
+
+.after-employers-and {
+  position: absolute;
+  height: 69.72%;
+  width: 100%;
+  top: 30.28%;
+  left: 0;
+  font-size: var(--font-size-sm);
+  line-height: 24px;
+  color: var(--color-gray);
+  display: inline-block;
+}
+
+.bottom,
+.work {
+  position: absolute;
+}
+
+.work {
+  position: absolute;
+  top: 50px;
+  left: 805px;
+  width: 270px;
+  height: 120px;
+  overflow: hidden;
+}
+
+.bottom {
+  top: 600px;
+  left: 200px;
+  width: 1400px;
+  height: 80px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray-100);
+}
+
+.HomePage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 780px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 72px;
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-poppins);
+}
+
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray: #838383;
+  --color-darkslategray-100: #280808;
+  --color-darkslategray-200: #013c5e;
+  --color-darkgray: #baafaf;
+
+  /* Border radiuses */
+  --br-6xl: 25px;
+}

@@ -1,0 +1,580 @@
+.candidate3rec {
+  position: absolute;
+  height: 100.38%;
+  width: 100.29%;
+  top: -0.19%;
+  right: -0.15%;
+  bottom: -0.19%;
+  left: -0.15%;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+
+.nyc3,
+.remotec3,
+.typec3 {
+  position: absolute;
+  top: calc(50% + 11px);
+}
+
+.nyc3 {
+  left: 24.12%;
+  color: var(--color-darkslategray-200);
+}
+
+.remotec3,
+.typec3 {
+  left: 57.06%;
+}
+
+.typec3 {
+  left: 45.29%;
+}
+
+.see-more {
+  font-weight: 600;
+}
+
+.candidate3bio {
+  position: absolute;
+  width: 69.41%;
+  top: calc(50% - 80px);
+  left: 26.76%;
+  font-size: var(--font-size-smi);
+  display: inline-block;
+}
+
+.rectangle {
+  position: absolute;
+  height: 102.86%;
+  width: 101.02%;
+  top: -1.43%;
+  right: -0.51%;
+  bottom: -1.43%;
+  left: -0.51%;
+  border-radius: var(--br-mid-5);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+
+.adobe-suite {
+  position: absolute;
+  top: calc(50% - 8.5px);
+  left: 15.31%;
+}
+
+.skillc33 {
+  position: absolute;
+  height: 56.45%;
+  width: 36.84%;
+  top: 43.55%;
+  right: 0;
+  bottom: 0;
+  left: 63.16%;
+  overflow: hidden;
+}
+
+.rectangle1 {
+  position: absolute;
+  height: 102.86%;
+  width: 101.28%;
+  top: -1.43%;
+  right: -0.64%;
+  bottom: -1.43%;
+  left: -0.64%;
+  border-radius: var(--br-mid-5);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+
+.indesign {
+  position: absolute;
+  top: calc(50% - 8.5px);
+  left: 19.23%;
+}
+
+.skillc32 {
+  position: absolute;
+  height: 56.45%;
+  width: 29.32%;
+  top: 43.55%;
+  right: 40.6%;
+  bottom: 0;
+  left: 30.08%;
+  overflow: hidden;
+}
+
+.rectangle2 {
+  position: absolute;
+  height: 102.86%;
+  width: 101.43%;
+  top: -1.43%;
+  right: -0.71%;
+  bottom: -1.43%;
+  left: -0.71%;
+  border-radius: var(--br-mid-5);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+
+.sketch {
+  position: absolute;
+  top: calc(50% - 8.5px);
+  left: 21.43%;
+}
+
+.skillc31,
+.skillsc3h {
+  position: absolute;
+  left: 0;
+}
+
+.skillc31 {
+  height: 56.45%;
+  width: 26.32%;
+  top: 43.55%;
+  right: 73.68%;
+  bottom: 0;
+  overflow: hidden;
+}
+
+.skillsc3h {
+  top: calc(50% - 31px);
+}
+
+.skillsofcandidate3 {
+  position: absolute;
+  height: 23.66%;
+  width: 78.24%;
+  top: 73.28%;
+  right: 17.06%;
+  bottom: 3.05%;
+  left: 4.71%;
+  overflow: hidden;
+}
+
+.locationc3,
+.thalha {
+  position: absolute;
+  top: calc(50% + 11px);
+  left: 4.71%;
+}
+
+.thalha {
+  top: calc(50% - 10px);
+  left: 0;
+}
+
+.candidate3name {
+  position: absolute;
+  height: 7.63%;
+  width: 29.41%;
+  top: 9.16%;
+  right: 43.82%;
+  bottom: 83.21%;
+  left: 26.76%;
+  overflow: hidden;
+  font-size: var(--font-size-sm);
+  color: var(--color-steelblue);
+}
+
+.candidate3img-icon {
+  position: absolute;
+  height: 22.9%;
+  width: 17.65%;
+  top: 7.63%;
+  right: 78.24%;
+  bottom: 69.47%;
+  left: 4.12%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+.candidate1,
+.candidate2,
+.candidate3,
+.candidate4 {
+  position: absolute;
+  top: 331px;
+  left: 24px;
+  width: 340px;
+  height: 262px;
+  overflow: hidden;
+}
+
+.candidate1,
+.candidate2,
+.candidate4 {
+  top: 46px;
+  left: 473px;
+}
+
+.candidate1,
+.candidate4 {
+  left: 24px;
+}
+
+.candidate4 {
+  top: 331px;
+  left: 473px;
+}
+
+.applied-candidates {
+  position: absolute;
+  top: 16px;
+  left: 29px;
+  font-size: var(--font-size-sm);
+  color: var(--color-steelblue);
+}
+
+.appliedcandidatescard {
+  position: absolute;
+  top: 420px;
+  left: 210px;
+  width: 993px;
+  height: 612px;
+  overflow: hidden;
+}
+
+.our-company-microsoft {
+  margin: 0;
+}
+
+.requirments19 {
+  position: absolute;
+  height: 48.1%;
+  width: 99.86%;
+  top: 11%;
+  left: 0.14%;
+  display: inline-block;
+}
+
+.location19,
+.type-in-house19 {
+  position: absolute;
+  width: 9.01%;
+  top: calc(50% - 8.75px);
+  left: 0;
+  display: inline-block;
+}
+
+.type-in-house19 {
+  width: 100%;
+}
+
+.type-inhouse19 {
+  position: absolute;
+  height: 100%;
+  width: 14.16%;
+  top: 0;
+  right: 66.1%;
+  bottom: 0;
+  left: 19.74%;
+  overflow: hidden;
+}
+
+.k19,
+.ny19,
+.salary19 {
+  position: absolute;
+  width: 2.58%;
+  top: calc(50% - 8.75px);
+  left: 9.44%;
+  display: inline-block;
+}
+
+.k19,
+.salary19 {
+  width: 40.44%;
+  left: 0;
+}
+
+.k19 {
+  width: 55.56%;
+  left: 44.44%;
+}
+
+.footerjob19,
+.salaryrange19 {
+  position: absolute;
+  height: 100%;
+  width: 14.16%;
+  top: 0;
+  right: 0.01%;
+  bottom: 0;
+  left: 85.83%;
+  overflow: hidden;
+}
+
+.footerjob19 {
+  height: 6.5%;
+  width: 99.72%;
+  top: 78.67%;
+  right: 0.28%;
+  bottom: 14.83%;
+  left: 0;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslategray-200);
+}
+
+.adobexdrec {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-mid-5);
+  background-color: var(--color-darkslategray-200);
+}
+
+.adobe-xd {
+  position: absolute;
+  width: 67.61%;
+  top: calc(50% - 10.05px);
+  left: 16.68%;
+  display: inline-block;
+}
+
+.adobexd19 {
+  position: absolute;
+  height: 100%;
+  width: 20.86%;
+  top: 0;
+  right: 69.32%;
+  bottom: 0;
+  left: 9.82%;
+  overflow: hidden;
+}
+
+.sketch-pro {
+  position: absolute;
+  width: 65.78%;
+  top: calc(50% - 10.05px);
+  left: 17.11%;
+  display: inline-block;
+}
+
+.adobexd191,
+.sketchpro19,
+.sketchpro191 {
+  position: absolute;
+  height: 100%;
+  width: 22.69%;
+  top: 0;
+  right: 45.6%;
+  bottom: 0;
+  left: 31.7%;
+  overflow: hidden;
+}
+
+.adobexd191,
+.sketchpro191 {
+  width: 20.86%;
+  right: 23.72%;
+  left: 55.42%;
+}
+
+.sketchpro191 {
+  width: 22.69%;
+  right: 0;
+  left: 77.31%;
+}
+
+.skills191 {
+  position: absolute;
+  width: 8.59%;
+  top: calc(50% - 9.05px);
+  left: 0;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+  color: var(--color-darkslategray-200);
+}
+
+.skills19 {
+  position: absolute;
+  height: 13.37%;
+  width: 69.76%;
+  top: 59%;
+  right: 30.1%;
+  bottom: 27.63%;
+  left: 0.14%;
+  overflow: hidden;
+  color: var(--color-white);
+}
+
+.jobhed19 {
+  position: absolute;
+  width: 30.52%;
+  top: calc(50% - 141px);
+  left: 0;
+  font-size: 16px;
+  display: inline-block;
+  color: #1a4f6e;
+}
+
+.senior-ui-designercard19 {
+  position: absolute;
+  top: 130px;
+  left: 250px;
+  width: 900px;
+  height: 300px;
+  overflow: hidden;
+  font-size: var(--font-size-sm);
+}
+
+.profilepic19-icon {
+  position: absolute;
+  height: 40.18%;
+  width: 19.88%;
+  top: 13.36%;
+  right: 70%;
+  bottom: 17.47%;
+  left: 30.13%;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+.picon19,
+.profilename19 {
+  position: absolute;
+  top: calc(35% - 10.05px);
+  left: 115px;
+}
+
+.picon19 {
+  top: calc(40% - 20.65px);
+  left: 85.27%;
+  font-size: 26.63px;
+  font-family: var(--font-material-icons);
+  color: #000;
+}
+
+.profilecard19 {
+  position: absolute;
+  top: 10px;
+  left: 1240px;
+  width: 200px;
+  height: 100.1px;
+  overflow: hidden;
+  font-size: 14px;
+}
+
+.postjobbtn19 {
+  position: absolute;
+  top: 25px;
+  left: 1160px;
+}
+
+.active-jobs19 {
+  position: absolute;
+  width: 14.14%;
+  top: calc(50% - 17px);
+  left: 0.15%;
+}
+
+.archived19,
+.saved-candidates19 {
+  position: absolute;
+  width: 9.13%;
+  top: calc(50% - 15px);
+  left: 5.12%;
+}
+
+.saved-candidates19 {
+  width: 19.15%;
+  left: 10.07%;
+}
+
+.advanced-search19,
+.interviews19,
+.message19 {
+  position: absolute;
+  width: 10.46%;
+  top: calc(50% - 15px);
+  left: 16.2%;
+}
+
+.advanced-search19,
+.message19 {
+  width: 9.28%;
+  left: 21.49%;
+}
+
+.advanced-search19 {
+  width: 18.41%;
+  left: 25.59%;
+}
+
+.header19 {
+  position: absolute;
+  top: 80px;
+  left: 180px;
+  width: 1222px;
+  height: 44px;
+  overflow: hidden;
+}
+
+.findjoblogo19-icon {
+  position: absolute;
+  top: 11px;
+  left: 0;
+  width: 220px;
+  height: 60px;
+  object-fit: cover;
+}
+
+.homepage19 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 1500px;
+  height: 780px;
+  overflow-y: scroll;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-poppins);
+
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Material+Icons:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-material-icons: "Material Icons";
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-smi: 13px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslategray-100: #4a4a4a;
+  --color-darkslategray-200: #013c5e;
+  --color-steelblue: #0086ca;
+  --color-gainsboro: #e8e8e8;
+
+  /* Border radiuses */
+  --br-mid-5: 17.5px;
+  --br-9xs: 4px;
+}

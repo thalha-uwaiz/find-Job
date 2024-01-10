@@ -1,0 +1,289 @@
+.backgroundimg8-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+
+.connect-merge-work {
+    position: absolute;
+    top: calc(50% - 414px);
+    left: 19.79%;
+    line-height: 83px;
+}
+
+.left8,
+.profilepic-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 760px;
+    height: 1080px;
+    overflow: hidden;
+
+    &.profilepic-icon {
+        height: 100%;
+        width: 25.75%;
+        top: 0;
+        right: 71.25%;
+        bottom: 0;
+        left: 0;
+        border-radius: 50%;
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: cover;
+    }
+}
+
+.picon8,
+.profilename8 {
+    position: absolute;
+    top: calc(50% - 10.05px);
+    left: 35.63%;
+
+    &.picon8 {
+        left: 71.5%;
+        font-size: var(--font-size-xl);
+        font-family: var(--font-material-icons);
+        color: #000;
+    }
+}
+
+
+
+
+.profilecard8 {
+    position: absolute;
+    top: 10px;
+    left: 620px;
+    width: 160px;
+    height: 40px;
+    overflow: hidden;
+    font-size: 14px;
+}
+
+.company-street-address{
+    border: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 140px;
+    left: 220px;
+}
+.country8,
+.state8 {
+    border: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 190px;
+    left: 11px;
+
+    &.country8{
+        top:140px;
+        left: -315px;
+        
+        
+    }
+    &.state8 {
+        top: 130px;
+        
+    }
+
+    &.state8 {
+        top: 10px;
+        left: 220px;
+    }
+}
+
+.city8,
+.company-location {
+    position: absolute;
+    left: 11px;
+
+    &.city8 {
+        border: 0;
+        background-color: transparent;
+        top: 10px;
+        left: -165px;
+    }
+
+    &.company-location {
+        top: 14px;
+    }
+}
+
+.companylocationcard {
+    position: absolute;
+    top: 450px;
+    left: 160px;
+    width: 600px;
+    height: 312px;
+    overflow: hidden;
+    color: #1a4f6e;
+}
+
+.nextbtn8 {
+    position: absolute;
+    height: 4.23%;
+    width: 38.14%;
+    top: 680px;
+    right: 50.85%;
+    bottom: 5.73%;
+    left: 180px;
+    text-decoration: none;
+    color: #e7ecee;
+    border: 1px solid;
+    width: 150px;
+    font-size: 18px;
+    padding-left: 90px;
+    padding-top: 13px;
+    border-radius: 10px;
+    background-color: #077bb6;
+}
+
+.companyname8,
+.companysixe8,
+.phonenumber8,
+.yourname8 {
+    border: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 29px;
+    left: 26px;
+
+    &.companysixe8,
+    &.phonenumber8,
+    &.yourname8 {
+        top: 100px;
+        left: 25px;
+        
+       
+    }
+
+    &.companysixe8,
+    &.phonenumber8 {
+        top: -20px;
+    }
+
+    &.phonenumber8 {
+        top: 50px;
+    }
+}
+
+.companydetailscard8 {
+    position: absolute;
+    top: 170px;
+    left: 150px;
+    width: 485px;
+    height: 300px;
+    overflow: hidden;
+}
+
+.company-details8,
+.candidate-requiremen8,
+.job-description8,
+.job-details8 {
+    position: absolute;
+    top: 12px;
+    left: 60%;
+
+    &.job-description8{
+        left: 300px;
+        top: 12px;
+    }
+    
+    &.company-details8{
+        left: 20px;
+        top: 12px;
+    }
+    &.candidate-requiremen8,
+    &.job-details8 {
+        left: 50.67%;
+        top: 12px;
+    }
+
+    &.job-details8 {
+        left: 25%;
+        top: 12px;
+    }
+}
+
+
+.pagescard8 {
+    position: absolute;
+    
+   
+
+    &.pagescard8 {
+        width: 375px;
+        top: calc(40% - 320.5px);
+        right: 23.41%;
+        left: 12.81%;
+        height: 5px;
+        
+    }
+}
+
+.post-a-job8 {
+    position: absolute;
+    top: 75px;
+    left: 145px;
+    font-size: 18px;
+    color: #013c5e;
+}
+
+.create-job8,
+.right8 {
+    height: 1065px;
+    overflow: hidden;
+
+    &.right8 {
+        position: absolute;
+        top: 0;
+        left: 650px;
+        width: 960px;
+        font-size: 16px;
+        color: var(--color-darkslategray);
+    }
+
+    &.create-job8 {
+        position: relative;
+        background-color: var(--color-white);
+        width: 1400px;
+        height: 780px;
+        text-align: left;
+        font-size: 42px;
+        color: #0e5a86;
+        font-family: var(--font-poppins);
+        overflow: hidden;
+        
+    }
+}
+
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Material+Icons:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+:root {
+    /* fonts */
+    --font-poppins: Poppins;
+    --font-material-icons: "Material Icons";
+
+    /* font sizes */
+    --font-size-sm: 14px;
+
+    /* Colors */
+    --color-white: #fff;
+}

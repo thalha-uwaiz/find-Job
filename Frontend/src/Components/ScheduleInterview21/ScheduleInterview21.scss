@@ -1,0 +1,182 @@
+.postjobbtn21 {
+  position: absolute;
+  top: 27px;
+  left: 1130px;
+}
+
+
+
+.ButtonCard21{
+  position: absolute;
+  top: 525px;
+  left: 400px;
+
+}
+.cancelbtn21{
+  left: 100px;
+}
+
+.addittionalnoterec,
+.time21card {
+  border: 0;
+  background-color: transparent;
+
+  &.addittionalnoterec {
+    position: absolute;
+    top: 410px;
+    left: 400px;
+  }
+
+  &.time21card {
+    top: 320px;
+    left: -320px;
+  }
+}
+
+.date,
+.date21,
+.time21card {
+  position: absolute;
+
+  &.date21 {
+    border: 0;
+    background-color: transparent;
+    top: 230px;
+    left: 280px;
+  }
+
+  &.date {
+    top: 187px;
+    left: 400px;
+    display: inline-block;
+    width: 100px;
+    height: 33px;
+  }
+}
+
+.schedule-interview1 {
+  position: absolute;
+  top: 140px;
+  left: 400px;
+  font-size: 20px;
+  color: #1a4f6e;
+}
+
+.active-jobs21 {
+  position: absolute;
+  width: 14.14%;
+  top: calc(50% - 17px);
+  left: 0.15%;
+}
+
+.archived21,
+.saved-candidates21 {
+  position: absolute;
+  width: 9.13%;
+  top: calc(50% - 15px);
+  left: 5.12%;
+
+  &.saved-candidates21 {
+    width: 19.15%;
+    left: 10.07%;
+  }
+}
+
+.advanced-search21,
+.interviews21,
+.message21 {
+  position: absolute;
+  width: 10.46%;
+  top: calc(50% - 15px);
+  left: 16.2%;
+
+  &.advanced-search21,
+  &.message21 {
+    width: 9.28%;
+    left: 21.49%;
+  }
+
+  &.advanced-search21 {
+    width: 18.41%;
+    left: 25.59%;
+  }
+}
+
+.header21 {
+  position: absolute;
+  top: 70px;
+  left: 150px;
+  width: 1222px;
+  height: 44px;
+  overflow: hidden;
+}
+
+.findmergeicon21 {
+  position: absolute;
+  top: 15px;
+  left: 0px;
+  width: 220px;
+  height: 60px;
+  object-fit: cover;
+}
+
+.profilepic21-icon {
+  position: absolute;
+  top: 36px;
+  left: 243px;
+  width: 1222px;
+  height: 44px;
+  overflow: hidden;
+
+  &.profilepic21-icon {
+    position: absolute;
+    height: 40.18%;
+    width: 19.88%;
+    top: 13.36%;
+    right: 70%;
+    bottom: 17.47%;
+    left: 30.13%;
+    border-radius: 50%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+}
+
+.picon21,
+.profilename21 {
+  position: absolute;
+  top: calc(35% - 10.05px);
+  left: 115px;
+
+  &.picon21 {
+    top: calc(40% - 20.65px);
+    left: 85.27%;
+    font-size: 26.63px;
+    font-family: var(--font-material-icons);
+    color: #000;
+  }
+}
+
+.profilecard21 {
+  position: absolute;
+  top: 10px;
+  left: 1230px;
+  width: 200px;
+  height: 100.1px;
+  overflow: hidden;
+  font-size: 14px;
+}
+
+.schedule-interview21 {
+  position: relative;
+  background-color: #fff;
+  width: 1500px;
+  height: 780px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.64);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,272 @@
+.background11-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+
+.connect-merge-work11 {
+    position: absolute;
+    top: calc(50% - 414px);
+    left: 19.79%;
+    line-height: 83px;
+}
+
+.email,
+.left11 {
+    position: absolute;
+}
+
+.left11 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 760px;
+    height: 1080px;
+    overflow: hidden;
+}
+
+.email {
+    top: calc(50% - 9.5px);
+    left: 0.17%;
+}
+
+.btniconemail {
+    position: absolute;
+    height: 53.06%;
+    width: 7.29%;
+    top: 24.49%;
+    right: 0;
+    bottom: 22.45%;
+    left: 92.71%;
+}
+
+.email11,
+.vediocalling11,
+.vediointerviews {
+    position: absolute;
+    height: 24.87%;
+    width: 100%;
+    top: 75.13%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+}
+
+.vediocalling11,
+.vediointerviews {
+    top: 45.18%;
+    bottom: 29.95%;
+}
+
+.vediointerviews {
+    top: 15.23%;
+    bottom: 59.9%;
+}
+
+.options-includedhed {
+    position: absolute;
+    top: calc(50% - 98.5px);
+    left: 0;
+    color: var(--color-steelblue-100);
+}
+
+.optionincluded11 {
+    position: absolute;
+    top: 450px;
+    left: 160px;
+    width: 530px;
+    height: 197px;
+    overflow: hidden;
+}
+
+.jobdesinbox {
+    border: 0;
+    background-color: transparent;
+    position: absolute;
+    height: 70.59%;
+    width: 100%;
+    top: 29.41%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.describe-job-descriptions11 {
+    margin: 0;
+}
+
+.describe-job-descrip-container11 {
+    position: absolute;
+    top: calc(50% - 126px);
+    left: 0;
+    line-height: 24px;
+}
+
+.write-your-full11 {
+    position: absolute;
+    top: calc(50% - 153px);
+    left: 0;
+}
+
+.jobdiscriptioncard {
+    position: absolute;
+    top: 240px;
+    left: 160px;
+    width: 600px;
+    height: 306px;
+    overflow: hidden;
+}
+
+.post-a-job11 {
+    position: absolute;
+    top: 80px;
+    left: 160px;
+    font-size: 20px;
+    color: #013c5e;
+}
+
+.company-details,
+.job-description {
+    position: absolute;
+    width: 20.82%;
+    top: calc(50% - 16.7px);
+    left: 0;
+}
+
+.job-description {
+    width: 22.02%;
+    top: calc(50% - 20px);
+    left: 70.98%;
+}
+
+.candidate-requiremen,
+.job-details,
+.optionscard11 {
+    position: absolute;
+    width: 13.14%;
+    top: calc(50% - 16.7px);
+    left: 0;
+}
+
+.candidate-requiremen,
+.optionscard11 {
+    width: 30.2%;
+    left: 15.18%;
+}
+
+.optionscard11 {
+    position: absolute;
+    top: 120px;
+    left: 160px;
+    width: 600px;
+    height: 65px;
+    overflow: hidden;
+}
+
+.profilepic11-icon {
+    position: absolute;
+    height: 67.18%;
+    width: 21.88%;
+    top: 15.36%;
+    right: 70%;
+    bottom: 17.47%;
+    left: 8.13%;
+    border-radius: 50%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+
+.picon11,
+.profilename11 {
+    position: absolute;
+    top: calc(50% - 10.05px);
+    left: 35.63%;
+}
+
+.picon11 {
+    top: calc(50% - 11.05px);
+    left: 71.25%;
+    font-size: 20px;
+    font-family: var(--font-material-icons);
+    color: #000;
+}
+
+.profilecard911 {
+    position: absolute;
+    top: 10px;
+    left: 620px;
+    width: 160px;
+    height: 52.1px;
+    overflow: hidden;
+    font-size: 14px;
+}
+
+.create-job11,
+.right11 {
+    height: 1080px;
+    overflow: hidden;
+}
+
+.right11 {
+    position: absolute;
+    top: 0;
+    left: 650px;
+    width: 960px;
+    font-size: 16px;
+    color: var(--color-darkslategray);
+}
+
+.create-job11 {
+    position: relative;
+    background-color: #fff;
+    width: 1400px;
+    height: 780px;
+    text-align: left;
+    font-size: 42px;
+    color: #0e5a86;
+    font-family: var(--font-poppins);
+    
+}
+
+.postJobBtn11 {
+    position: absolute;
+    height: 3.4%;
+    width: 37.42%;
+    top: 65.87%;
+    right: 49.79%;
+    bottom: 2.72%;
+    left: 17.2%;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Material+Icons:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-material-icons: "Material Icons";
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslategray-100: #1a4f6e;
+  --color-steelblue-100: #0086ca;
+}

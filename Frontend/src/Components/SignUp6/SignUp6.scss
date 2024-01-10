@@ -1,0 +1,197 @@
+.backgroundimage6-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+
+.connect-merge-work6 {
+    position: absolute;
+    top: calc(50% - 414px);
+    left: 19.79%;
+    line-height: 83px;
+}
+
+.left6 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 760px;
+    height: 1080px;
+    overflow: hidden;
+}
+
+.verify-email-title {
+    position: absolute;
+    width: 37.75%;
+    top: calc(50% - 11.5px);
+    left: 38.39%;
+    font-weight: 600;
+    display: inline-block;
+}
+
+.we-have-sent {
+    margin: 0;
+}
+
+.mohamedthalha20gmailcom {
+    margin: 0;
+    color: #0086ca;
+}
+
+.please-verify-your,
+.we-have-sent-container {
+    position: absolute;
+    width: 99.22%;
+    top: calc(50% - 54.55px);
+    left: 0.38%;
+    line-height: 30px;
+    display: inline-block;
+
+    &.please-verify-your {
+        width: 100%;
+        top: calc(50% + 24.45px);
+        left: 0;
+        height: 30px;
+    }
+}
+
+.find-job6-icon,
+.veryfyemail6 {
+    position: absolute;
+    overflow: hidden;
+
+    &.veryfyemail6 {
+        height: 44.32%;
+        width: 100%;
+        top: 50.68%;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        text-align: center;
+        font-size: var(--font-size-sm);
+        color: var(--color-darkslategray-200);
+    }
+
+    &.find-job6-icon {
+        top: 75px;
+        left: 115px;
+        width: 180px;
+        height: 55px;
+        object-fit: cover;
+    }
+}
+
+.verifyemailcard6 {
+    position: absolute;
+    top: 100px;
+    left: 240px;
+    width: 422px;
+    height: 370px;
+    overflow: hidden;
+}
+
+.resendverficationmailbtn {
+    position: absolute;
+    height: 56.96%;
+    width: 100%;
+    top: 43.04%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.didnt-get-the {
+    position: absolute;
+    top: calc(50% - 39.5px);
+    left: 19.03%;
+    line-height: 40px;
+}
+
+.resendverficationmail {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 360px;
+    height: 79px;
+    overflow: hidden;
+}
+
+.findjobinc6 {
+    position: absolute;
+    top: calc(50% - 8.5px);
+    left: 5.84%;
+}
+
+.footer6 {
+    position: absolute;
+    top: 170px;
+    left: 100px;
+    width: 137px;
+    height: 17px;
+    overflow: hidden;
+    font-size: 12px;
+}
+
+.bottom6 {
+    position: absolute;
+    top: 550px;
+    left: 280px;
+    width: 360px;
+    height: 142px;
+    text-align: center;
+    font-size: var(--font-size-sm);
+}
+
+.right6,
+.sign-up {
+    height: 1080px;
+    overflow: hidden;
+
+    &.right6 {
+        position: absolute;
+        top: 0;
+        left: 650px;
+        width: 960px;
+        font-size: 16px;
+        color: var(--color-darkslategray);
+    }
+
+    &.sign-up {
+        position: relative;
+        background-color: #fff;
+        width: 1400px;
+        height: 780px;
+        text-align: left;
+        font-size: 42px;
+        color: #0e5a86;
+        font-family: var(--font-poppins);
+    }
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+:root {
+    /* fonts */
+    --font-poppins: Poppins;
+
+    /* font sizes */
+    --font-size-sm: 14px;
+
+    /* Colors */
+    --color-darkslategray-100: #6f2929;
+    --color-darkslategray-200: #1a4f6e;
+}

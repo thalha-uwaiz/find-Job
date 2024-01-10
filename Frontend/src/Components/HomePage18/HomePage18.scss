@@ -1,0 +1,529 @@
+.profilepic17-icon {
+    position: absolute;
+    height: 40.18%;
+    width: 19.88%;
+    top: 13.36%;
+    right: 70%;
+    bottom: 17.47%;
+    left: 30.13%;
+    border-radius: 50%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+
+.picon17,
+.profilename17 {
+    position: absolute;
+    top: calc(35% - 10.05px);
+    left: 115px;
+}
+
+.picon17 {
+    top: calc(40% - 20.65px);
+    left: 85.27%;
+    font-size: 26.63px;
+    font-family: var(--font-material-icons);
+    color: #000;
+}
+
+.profilecard17 {
+    position: absolute;
+    top: 10px;
+    left: 1210px;
+    width: 200px;
+    height: 100.1px;
+    overflow: hidden;
+    font-size: 14px;
+}
+
+.postjobbtn17 {
+    position: absolute;
+    top: 25px;
+    left: 1120px;
+}
+
+.active-jobs,
+.archived {
+    position: absolute;
+    width: 14.14%;
+    top: calc(50% - 17px);
+    left: 0px;
+}
+
+.archived {
+    width: 9.13%;
+    top: calc(50% - 15px);
+    left: 18.12%;
+}
+
+.advanced-search,
+.interviews,
+.message,
+.saved-candidates {
+    position: absolute;
+    width: 19.15%;
+    top: calc(50% - 15px);
+    left: 15%;
+}
+
+.advanced-search,
+.interviews,
+.message {
+    width: 10.46%;
+    left: 54.2%;
+}
+
+.advanced-search,
+.message {
+    width: 9.28%;
+    left: 30.49%;
+}
+
+.advanced-search {
+    width: 18.41%;
+    left: 33.59%;
+}
+
+.header {
+    position: absolute;
+    top: 100px;
+    left: 180px;
+    width: 1200px;
+    height: 60px;
+    overflow: hidden;
+}
+
+.senior-reactdeveloper17 {
+    width: 36.52%;
+    top: calc(50% - 141px);
+    left: 0;
+    font-size: var(--font-size-base);
+    color: var(--color-darkslategray-200);
+}
+
+.our-company-bluechiptechasia17 {
+    margin: 0;
+}
+
+.reqforreact17 {
+    position: absolute;
+    height: 48.1%;
+    width: 99.85%;
+    top: 11.07%;
+    left: 0.15%;
+    color: var(--color-darkslategray-100);
+    white-space: pre-wrap;
+    display: inline-block;
+}
+
+.location-17,
+.ny17,
+.type-in-house17 {
+    position: absolute;
+    width: 2.57%;
+    top: calc(50% - 8.75px);
+    left: 9.44%;
+    display: inline-block;
+}
+
+.location-17,
+.type-in-house17 {
+    width: 13.31%;
+    top: calc(50% - 8.85px);
+    left: 0;
+}
+
+.type-in-house17 {
+    width: 100%;
+    top: calc(50% - 8.75px);
+}
+
+.type-inhouse-217 {
+    position: absolute;
+    height: 100%;
+    width: 14.16%;
+    top: 0;
+    right: 66.1%;
+    bottom: 0;
+    left: 19.74%;
+    overflow: hidden;
+}
+
+.k17,
+.salary17 {
+    position: absolute;
+    width: 40.45%;
+    top: calc(50% - 8.75px);
+    left: 0;
+    display: inline-block;
+}
+
+.k17 {
+    width: 55.59%;
+    left: 44.49%;
+}
+
+.footerreact17,
+.salaryrangereact17 {
+    position: absolute;
+    height: 100%;
+    width: 14.16%;
+    top: 0;
+    right: 0.01%;
+    bottom: 0;
+    left: 85.83%;
+    overflow: hidden;
+}
+
+.footerreact17 {
+    height: 6.5%;
+    width: 99.72%;
+    top: 87.03%;
+    right: 0.13%;
+    bottom: 6.47%;
+    left: 0.15%;
+    font-size: var(--font-size-xs);
+}
+
+.reactjsrec17 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-mid-5);
+    background-color: var(--color-darkslategray-300);
+}
+
+.reactjs117 {
+    position: absolute;
+    width: 54.84%;
+    top: calc(50% - 10.05px);
+    left: 16.69%;
+    display: inline-block;
+}
+
+.reactjs17 {
+    position: absolute;
+    height: 100%;
+    width: 20.87%;
+    top: 0;
+    right: 69.31%;
+    bottom: 0;
+    left: 9.82%;
+    overflow: hidden;
+}
+
+.database117 {
+    position: absolute;
+    width: 61.24%;
+    top: calc(50% - 10.05px);
+    left: 17.11%;
+    display: inline-block;
+}
+
+.database17 {
+    position: absolute;
+    height: 100%;
+    width: 22.7%;
+    top: 0;
+    right: 45.6%;
+    bottom: 0;
+    left: 31.7%;
+    overflow: hidden;
+}
+
+.uiux117 {
+    width: 37.23%;
+    top: calc(50% - 11.25px);
+    left: 31.39%;
+    display: inline-block;
+}
+
+.nodejs117,
+.uiux17,
+.uiux117 {
+    position: absolute;
+}
+
+.uiux17 {
+    height: 100%;
+    width: 20.87%;
+    top: 0;
+    right: 23.71%;
+    bottom: 0;
+    left: 55.43%;
+    overflow: hidden;
+}
+
+.nodejs117 {
+    width: 43.28%;
+    top: calc(50% - 11.25px);
+    left: 28.86%;
+    display: inline-block;
+}
+
+.nodejs17 {
+    height: 100%;
+    width: 22.7%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 77.3%;
+}
+
+.line-icon17,
+.nodejs17,
+.skilsforreact17 {
+    position: absolute;
+    overflow: hidden;
+}
+
+.skilsforreact17 {
+    height: 13.37%;
+    width: 69.76%;
+    top: 66.4%;
+    right: 30.1%;
+    bottom: 20.23%;
+    left: 0.15%;
+    color: var(--color-white);
+}
+
+
+.skills-17 {
+    position: absolute;
+    width: 5.99%;
+    top: calc(50% + 60.2px);
+    left: 0.15%;
+    font-size: var(--font-size-xs);
+    display: inline-block;
+}
+
+.seniorreactdeveloper17 {
+    position: absolute;
+    top: 170px;
+    left: 400px;
+    width: 800px;
+    height: 300px;
+    overflow: hidden;
+    color: var(--color-darkslategray-300);
+}
+
+.location-117,
+.requirments17 {
+    position: absolute;
+    display: inline-block;
+}
+
+.requirments17 {
+    height: 48.1%;
+    width: 99.85%;
+    top: 6%;
+    left: 0.15%;
+}
+
+.location-117 {
+    width: 9.02%;
+    top: calc(50% - 8.75px);
+    left: 0;
+}
+
+.footerjob17 {
+    position: absolute;
+    height: 6.5%;
+    width: 99.72%;
+    top: 78.67%;
+    right: 0.28%;
+    bottom: 14.83%;
+    left: 0;
+    overflow: hidden;
+    font-size: var(--font-size-xs);
+    color: var(--color-darkslategray-300);
+}
+
+.adobe-xd17,
+.sketch-pro17,
+.skills-117 {
+    position: absolute;
+    width: 67.61%;
+    top: calc(50% - 10.05px);
+    left: 16.69%;
+    display: inline-block;
+}
+
+.sketch-pro17,
+.skills-117 {
+    width: 65.77%;
+    left: 17.11%;
+}
+
+.skills-117 {
+    width: 8.59%;
+    top: calc(50% - 9.05px);
+    left: 0;
+    font-size: var(--font-size-xs);
+    color: var(--color-darkslategray-300);
+}
+
+.skills17 {
+    position: absolute;
+    height: 13.37%;
+    width: 69.76%;
+    top: 59%;
+    right: 30.1%;
+    bottom: 27.63%;
+    left: 0.15%;
+    overflow: hidden;
+    color: var(--color-white);
+}
+
+.jobhed17 {
+    position: absolute;
+    width: 30.52%;
+    top: calc(46% - 141px);
+    left: 0;
+    font-size: var(--font-size-base);
+    display: inline-block;
+    color: var(--color-darkslategray-200);
+}
+
+.line-icon117,
+.senior-ui-designer17 {
+    position: absolute;
+    overflow: hidden;
+}
+
+
+
+.senior-ui-designer17 {
+    top: 475px;
+    left: 400px;
+    width: 823px;
+    height: 300px;
+}
+
+.bellicon17 {
+    position: absolute;
+    top: 20px;
+    left: 40px;
+    width: 16px;
+    height: 20px;
+    opacity: 0.32;
+    mix-blend-mode: normal;
+}
+
+
+.find-job17-icon {
+    position: absolute;
+    top: 20px;
+    left: 40px;
+    width: 200px;
+    height: 75px;
+    object-fit: cover;
+}
+
+.rectangle17,
+.rectangle117 {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.rectangle17 {
+    background-color: #d8d8d8;
+    width: 1920px;
+    height: 1080px;
+    opacity: 0.5;
+    mix-blend-mode: normal;
+}
+
+.rectangle117 {
+    height: 100%;
+    width: 100%;
+    right: 0;
+    bottom: 0;
+    border-radius: 8px;
+    background-color: var(--color-white);
+    box-shadow: 0 0 17px rgba(99, 99, 99, 0.12);
+}
+
+.nobtn18,
+.yesbtn18 {
+    position: absolute;
+    height: 34.35%;
+    width: 46.05%;
+    top: 55.73%;
+    right: 51.05%;
+    bottom: 9.92%;
+    left: -30px;
+}
+
+.yesbtn18 {
+    right: 2.63%;
+    left: 0.32%;
+}
+
+.do-you-want18 {
+    position: absolute;
+    top: calc(52% - 42.5px);
+    left: 8.89%;
+    line-height: 28px;
+}
+
+.editpostcard18 {
+    position: absolute;
+    top: 300px;
+    left: 520px;
+    width: 400px;
+    height: 151px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-base);
+    color: #0086ca;
+    border-radius: 10px;
+}
+
+.homepage18 {
+    position: relative;
+    background-color: var(--color-white);
+    width: 1500px;
+    height: 780px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--color-darkslategray-100);
+    font-family: var(--font-poppins);
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Material+Icons:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+:root {
+    /* fonts */
+    --font-poppins: Poppins;
+    --font-material-icons: "Material Icons";
+
+    /* font sizes */
+    --font-size-base: 16px;
+    --font-size-xs: 12px;
+    --font-size-sm: 14px;
+
+    /* Colors */
+    --color-white: #fff;
+    --color-darkslategray-100: #4a4a4a;
+    --color-darkslategray-200: #1a4f6e;
+    --color-darkslategray-300: #013c5e;
+
+    /* Border radiuses */
+    --br-mid-5: 17.5px;
+}
